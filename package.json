@@ -1,0 +1,25 @@
+{
+  "name": "boom-tchak",
+  "version": "0.0.0",
+  "description": "boom-tchak ==========",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-connect": "~0.6.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-connect": "~0.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/goldoraf/boom-tchak.git"
+  },
+  "author": "Raphaël Rougeron <goldoraf@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goldoraf/boom-tchak/issues"
+  }
+}
